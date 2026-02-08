@@ -1,0 +1,71 @@
+/*
+  white: #FFFFFF
+  first accent: #1E7EB0
+  second accent: #B0501E
+*/
+
+h1, h2, h3 {
+  color: #1E7EB0;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+
+th, td {
+  border-color: #B0501E;
+  border-style: outset;
+  border-width: 4px;
+  /*border: #468BA6 solid 3px;*/
+  padding: 10px;
+}
+
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #1E7EB0;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #B0501E;
+}
+
+p.paragraph {
+  background-color: #1E7EB0;
+  color: #FFFFFF;
+  width: 800px;
+  padding: 30px;
+  margin: 60px;
+
+  border-width: 30px;
+  border-style: double;
+  border-color: #B0501E;
+}
+
+
+div {
+  background-color:#1E7EB0;
+  width: 646px;
+  padding: 30px;
+  margin: 60px;
+
+  border-style: ridge;
+  border-width: 9px;
+  border-color: #B0501E;
+}
+
+
+body {
+  padding: 0 24px 36px 24px;
+  font-size: 20px;
+}
+
+
