@@ -1,0 +1,46 @@
+/*
+  white: #FFFFFF
+  first accent: #A64F03
+  second accent: #F2B807
+  third accent: #023E73 
+  forth accent: #B9D5E4
+*/
+
+
+
+h1, h2 {
+  color: #A64F03;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+
+a {
+  color: #023E73;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+
+th, td {
+  border-color: #F2B807;
+  border-style: outset;
+  border-width: 7px;
+  padding: 20px;
+}
+
+
+table {
+  border-collapse: collapse;
+}
+
+
+body {
+  padding: 0 24px 36px 24px;
+  font-size: 25px;
+  background-color: #B9D5E4;
+}
+
